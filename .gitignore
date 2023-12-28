@@ -1,0 +1,30 @@
+# Dependency directories
+node_modules/
+
+# Environment configuration
+.env
+
+# Log files
+logs/
+*.log
+
+# Compiled output
+dist/
+
+# macOS folder attributes
+.DS_Store
+
+# Temporary files
+*.pid
+*.pid.lock
+*.seed
+*.pid.db
+
+# Cache files
+.cache/
+
+# Editor directories and files
+.vscode/
+
+# Coverage directory
+coverage/
