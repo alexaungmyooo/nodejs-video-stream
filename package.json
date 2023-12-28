@@ -1,0 +1,10 @@
+{
+  "name": "NODEJS-VIDEO-STREAM",
+  "version": "1.0.0",
+  "description": "Tutorial",
+  "main": "index.js",
+  "repository": "https://github.com/alexaungmyooo/nodejs-video-stream.git",
+  "author": "Alex Aung Myo Oo",
+  "license": "MIT",
+  "private": true
+}
